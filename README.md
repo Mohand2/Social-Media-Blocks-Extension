@@ -1,7 +1,8 @@
 # Social-Media-Blocks-Extension
 This is a Google Chrome Extension which blocks social media sites while your working 👇
 
-![Developer.gif](https://user-images.githubusercontent.com/101202952/180427032-299141ca-1e18-4f9b-bcbd-802de7f11618.mp4)
+![SocialBlocks.gif](https://user-images.githubusercontent.com/101202952/180427624-243f3b2f-df90-4380-a30e-af4c76f135b6.gif)
+
 
 ## How to access:
 
